@@ -1,0 +1,15 @@
+body{
+    background-image: url(https://previews.123rf.com/images/luckybusiness/luckybusiness1703/luckybusiness170300222/73902407-blurred-background-of-family-in-nature-back-view.jpg)
+}
+
+.name_of_objects{
+    font-size: 25;
+    background: rgba(255,255,255,0.5);
+    font-family: Times;
+}
+
+.design{
+    background: rgba(255,255,255,0.5);
+    font-family: Times;
+    border-radius: 50%;
+}
